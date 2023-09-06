@@ -26,6 +26,12 @@ const sidebars = {
       ],
     },
     {
+      type: 'doc',
+      label: 'Hello from Docusaurus',
+      id: 'hello-from-docusaurus',
+      slug: 'hello-from-docusaurus'
+    },
+    {
       type: 'category',
       label: 'Guides',
       link: {

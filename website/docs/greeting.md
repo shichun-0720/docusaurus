@@ -1,6 +1,6 @@
 ---
 id: 'hello-from-docusaurus'
-slug: 'hellp-from-docusaurus'
+slug: 'hello-from-docusaurus'
 description: Create a doc page with rich content.
 ---
 

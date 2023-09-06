@@ -107,13 +107,13 @@ function getLocalizedConfigValue(/** @type {string} */ key) {
 /** @returns {Promise<import('@docusaurus/types').Config>} */
 module.exports = async function createConfigAsync() {
   return {
-    title: 'Docusaurus',
+    title: 'Mixtile',
     tagline: getLocalizedConfigValue('tagline'),
     organizationName: 'facebook',
-    projectName: 'docusaurus',
+    projectName: 'mixtile',
     baseUrl,
     baseUrlIssueBanner: true,
-    url: 'https://docusaurus.io',
+    url: 'https://mixtile.io',
     // Dogfood both settings:
     // - force trailing slashes for deploy previews
     // - avoid trailing slashes in prod
